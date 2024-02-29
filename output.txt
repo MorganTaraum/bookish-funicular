@@ -1,1 +1,24 @@
+Microsoft Windows [Version 10.0.22621.3155]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\hrztr\Documents\Work\Teaching_Mats\BasicReverseP1\BasicReverseP1\ReverseGithub\bin\Release\net7.0>cmd /k dir
+ Volume in drive C is Windows
+ Volume Serial Number is 3E65-EFD6
+
+ Directory of C:\Users\hrztr\Documents\Work\Teaching_Mats\BasicReverseP1\BasicReverseP1\ReverseGithub\bin\Release\net7.0
+
+29/02/2024  02:42 pm    <DIR>          .
+29/02/2024  02:42 pm    <DIR>          ..
+23/02/2024  08:39 am         1,339,392 Octokit.dll
+29/02/2024  02:42 pm               999 ReverseGithub.deps.json
+29/02/2024  02:42 pm             8,704 ReverseGithub.dll
+29/02/2024  02:42 pm           154,624 ReverseGithub.exe
+29/02/2024  02:42 pm            11,160 ReverseGithub.pdb
+29/02/2024  02:37 pm               253 ReverseGithub.runtimeconfig.json
+29/02/2024  02:37 pm    <DIR>          win-x64
+               6 File(s)      1,515,132 bytes
+               3 Dir(s)  24,383,823,872 bytes free
+
+C:\Users\hrztr\Documents\Work\Teaching_Mats\BasicReverseP1\BasicReverseP1\ReverseGithub\bin\Release\net7.0>
+C:\Users\hrztr\Documents\Work\Teaching_Mats\BasicReverseP1\BasicReverseP1\ReverseGithub\bin\Release\net7.0>
+C:\Users\hrztr\Documents\Work\Teaching_Mats\BasicReverseP1\BasicReverseP1\ReverseGithub\bin\Release\net7.0>
